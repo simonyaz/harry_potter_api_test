@@ -1,0 +1,23 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Automation tests with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --record --key f1d21618-3113-4e51-9972-cf9b590d8b47"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simonyaz"
+  },
+  "keywords": [
+    "challenge"
+  ],
+  "author": "simony",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
+}
