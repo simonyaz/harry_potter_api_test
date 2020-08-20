@@ -1,3 +1,4 @@
 {
-  "projectId": "gcnrsv"
+  "projectId": "gcnrsv",
+  "baseUrl": "https://www.potterapi.com/v1"
 }
