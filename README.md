@@ -1,5 +1,6 @@
 # harry_potter_api_test
-  Teste da API Harry Potter com Cypress
+  Teste da API Harry Potter com Cypress 
+  https://www.potterapi.com/
   
 ### Utilizados nesse desenvolvimento
   
